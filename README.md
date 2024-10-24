@@ -2,6 +2,7 @@
 Formerly @Google.
 [Resume](https://docs.google.com/document/d/12qgksBDd8evJz8DqAccHgZhLsiiAL4Iht2mXnKys3fA/edit?usp=sharing)
 
+🔥
 <!--
 **erichaugh/erichaugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
